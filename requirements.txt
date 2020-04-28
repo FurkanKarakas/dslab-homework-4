@@ -1,3 +1,6 @@
 pandas
+numpy
 matplotlib
 pyhive[hive]
+pykafka
+bokeh
