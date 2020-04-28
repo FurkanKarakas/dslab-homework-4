@@ -1,4 +1,5 @@
-# spark-docker
+# dslab-homework-4
+**Due: 12.05.2020 23:59:59 CET**
 
 This is a Renku project - basically a git repository with some
 bells and whistles. You'll find we have already created some
