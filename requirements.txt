@@ -4,3 +4,4 @@ matplotlib
 pyhive[hive]
 pykafka
 bokeh
+pyproj
